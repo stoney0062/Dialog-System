@@ -1,0 +1,3 @@
+echooff
+dirsb文件名txt
+exit
